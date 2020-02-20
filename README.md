@@ -5,7 +5,7 @@
 </div>
 
 ## Tecnologias
-   * [NodeJS](https://github.com/Rocketseat/semana-omnistack-10)
+   * [NodeJS](https://nodejs.org/en/)
    * [React](https://reactjs.org/)
    * [React Native](https://facebook.github.io/react-native/)
 
